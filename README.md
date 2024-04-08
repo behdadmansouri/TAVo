@@ -59,4 +59,4 @@ pip install notebook
 ---
 
 ## References
-[1] Vira, G., Pal, S., Mansouri, B., Ghadami, A., and Branco, P. (2023). TAVo: Tor Application detection with Voting critic. *The 36th Canadian Conference on Artificial Intelligence - CANAI 2023*. (to appear)
+[1] Vira, G., Pal, S., Mansouri, B., Ghadami, A., & Branco, P. (2023). TAVo: Tor Application Detection with Voting Critic. Proceedings of the Canadian Conference on Artificial Intelligence. https://doi.org/10.21428/594757db.7b51702f
